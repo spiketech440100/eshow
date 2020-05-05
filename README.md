@@ -14,4 +14,12 @@ eshow是一个亚马逊线上测评平台,亚马逊商家可以在该平台上�
 
 ![架构](eshow系统架构图.jpg)
 
+## 项目地址
+
+* 卖家端：https://seller.eshow999.com/
+* 买家端：https://buyer.eshow999.com/
+
 ## 项目预览
+
+![img](first.png)
+![img](2.png)
