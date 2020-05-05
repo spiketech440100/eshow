@@ -21,5 +21,12 @@ eshow是一个亚马逊线上测评平台,亚马逊商家可以在该平台上�
 
 ## 项目预览
 
+* 买家端
+
 ![img](first.png)
 ![img](2.png)
+
+* 卖家端
+
+![img](WechatIMG3899.png)
+![img](WechatIMG3900.png)
